@@ -13,6 +13,11 @@
 * [LittleGiant' SEO editor](https://github.com/Little-Giant/silverstripe-seo-editor "SEO editor for SilverStripe") helps you to define your meta tags wisely.
 * [SilverStripe SEO suite](https://github.com/friendsofsilverstripe/seo-suite "SEO modules for SilverStripe") is set of useful modules for SEO
 
+### Boilerplates
+
+* [CWP installer](https://gitlab.cwp.govt.nz/cwp/cwp-installer.git "git clone this url")
+* https://github.com/Rhym/silverstripe-boilerplate-installer
+
 ### Examples of integrations with JavaScript libraries
 
 * [SilverStripe + React + Redux](https://github.com/stevie-mayhew/silverstripe-redux-example "stevie-mayhew/silverstripe-redux-example")
