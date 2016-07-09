@@ -17,6 +17,7 @@
 
 * [CWP installer](https://gitlab.cwp.govt.nz/cwp/cwp-installer.git "git clone this url")
 * https://github.com/Rhym/silverstripe-boilerplate-installer
+* https://github.com/toastnz/quicksilver
 
 ### Examples of integrations with JavaScript libraries
 
