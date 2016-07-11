@@ -21,8 +21,8 @@
 
 ### Examples of integrations with JavaScript libraries
 
-* [SilverStripe + React + Redux](https://github.com/stevie-mayhew/silverstripe-redux-example "stevie-mayhew/silverstripe-redux-example")
-* [SilverStripe + Reactjs workshop](https://github.com/flashbackzoo/silverstripe-reactjs-workshop "Flashbackzoo' ReactJS workshop")
+* [SilverStripe + ReactJS + Redux](https://github.com/stevie-mayhew/silverstripe-redux-example "stevie-mayhew/silverstripe-redux-example")
+* [SilverStripe + ReactJS Workshop](https://github.com/flashbackzoo/silverstripe-reactjs-workshop "Flashbackzoo' ReactJS workshop")
 
 ### More?
 
