@@ -7,6 +7,7 @@
 * [ZenValidator does a good job validating inputs and uploads](https://github.com/sheadawson/silverstripe-zenvalidator "ZenValidator is used for most validation") from content-editors as well as website users.
 * [Inheritage by Sitetree](https://github.com/friendsofsilverstripe/inheritage-by-sitetree "Allows to inherit a value from parent pages in the SiteTree") allows you to inheritage a $db-value over the SiteTree.
 * [Backendmessages](https://github.com/friendsofsilverstripe/backendmessages#usage "DRY generation of message boxes in the CMS.") for message boxes in the backend.
+* [IDE Annotator](https://github.com/silverleague/silverstripe-ideannotator/ "Add PHP Docblocks to your objects and controllers.") 
 
 ### SEO
 
